@@ -16,7 +16,7 @@ Build-Depends:
  libtool-bin,
  libvte-2.91-dev,
  po4a,
- python2,
+ python2.7,
  python-lockfile,
  xsltproc
 Standards-Version: 3.9.6
