@@ -16,8 +16,8 @@ Build-Depends:
  libtool-bin,
  libvte-2.91-dev,
  po4a,
- python3,
- python3-lockfile,
+ python2,
+ python-lockfile,
  xsltproc
 Standards-Version: 3.9.6
 Homepage: http://roxterm.sourceforge.net/
