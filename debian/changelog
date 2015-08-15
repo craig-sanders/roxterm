@@ -1,4 +1,4 @@
-roxterm (3.1.4-2ppa1) unstable; urgency=high
+roxterm (3.1.4-2ppa2) vivid; urgency=high
 
   * Fixed target package of roxterm.xpm (Closes: #795529, #795551).
 
