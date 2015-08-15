@@ -1,3 +1,9 @@
+roxterm (3.1.4-2ppa1) unstable; urgency=high
+
+  * Fixed target package of roxterm.xpm (Closes: #795529, #795551).
+
+ -- Tony Houghton <h@realh.co.uk>  Sat, 15 Aug 2015 15:47:37 +0100
+
 roxterm (3.1.4-1ppa3) vivid; urgency=medium
 
   * Updated roxterm.appdata.xml.in's licence and copyright.
