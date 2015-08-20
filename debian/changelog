@@ -1,4 +1,10 @@
-roxterm (3.1.4-2ppa2) vivid; urgency=high
+roxterm (3.1.5-1ppa1) vivid; urgency=medium
+
+  * Prevent --fork crashing on broken DBUS messages.
+
+ -- Tony Houghton <h@realh.co.uk>  Thu, 20 Aug 2015 16:21:44 +0100
+
+roxterm (3.1.4-2ppa2) unstable; urgency=high
 
   * Fixed target package of roxterm.xpm (Closes: #795529, #795551).
 
